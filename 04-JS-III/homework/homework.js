@@ -1,4 +1,4 @@
-// No cambies los nombres de las funciones.
+// No cambiess los nombres de las funciones.
 
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
